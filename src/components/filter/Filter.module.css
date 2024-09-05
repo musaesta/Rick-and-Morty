@@ -1,0 +1,18 @@
+.filter {
+  margin-bottom: 40px;
+
+  position: relative;
+  cursor: pointer;
+}
+.filter__icon {
+  width: 20px;
+  transition: 0.2s;
+}
+.filter__icon:hover {
+  width: 22px;
+}
+.filter__content {
+  padding: 0;
+  list-style-type: none;
+  display: none;
+}

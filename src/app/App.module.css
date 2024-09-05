@@ -1,0 +1,12 @@
+.container {
+  position: relative;
+  max-width: 1600px;
+  padding: 40px;
+  margin: 40px auto;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+}
